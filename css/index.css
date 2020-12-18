@@ -74,9 +74,10 @@
 .logo2{
     margin-top: 2rem;
     margin-bottom: 2rem;
-<
+
+    margin-left: 5rem;
     
-}    margin-left: 12rem;
+}
 
 
 
@@ -111,8 +112,10 @@ margin-left: 3rem;
     padding-bottom: 5rem;
 }
 
+
 #wwd{
-    margin-left: 7%;
+    margin-left: 8%;
+}
 
 .interface{
     margin-bottom: 1rem;
@@ -224,3 +227,4 @@ margin-left: 3rem;
 
     cursor: pointer;
 
+}
