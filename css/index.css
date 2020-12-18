@@ -54,11 +54,7 @@
     border-style: hidden;
   }
 
-   /*  */
-   
-    
-   
-}   
+
 .photo img{
     margin-bottom: 300px;
     float: right;
@@ -79,8 +75,6 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
     margin-left: 12rem;
-    
-}
 
 }
 .algolia{
@@ -113,6 +107,8 @@ margin-left: 3rem;
 .container{
     padding-bottom: 5rem;
 }
+#wwd{
+    margin-left: 7%;
 .interface{
     margin-bottom: 1rem;
     margin-top: 1.5rem;
