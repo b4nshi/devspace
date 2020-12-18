@@ -54,11 +54,8 @@
     border-style: hidden;
   }
 
-   /*  */
    
-    
-   
-}   
+ 
 .photo img{
     margin-bottom: 300px;
     float: right;
@@ -78,11 +75,11 @@
 .logo2{
     margin-top: 2rem;
     margin-bottom: 2rem;
-    margin-left: 12rem;
+    margin-left: 5rem;
     
 }
 
-}
+
 .algolia{
     margin-right: 4rem;
     margin-left: 9rem;
@@ -112,6 +109,10 @@ margin-left: 3rem;
 }
 .container{
     padding-bottom: 5rem;
+}
+
+#wwd{
+    margin-left: 8%;
 }
 .interface{
     margin-bottom: 1rem;
@@ -157,9 +158,31 @@ margin-left: 3rem;
     padding: 2rem;
     background: rgb(240, 232, 227);;
 }
-.container3{
-    margin-left: 24rem;
+
+.col-4 {
+    width: 33.33333333%;}
+.column {
+    -ms-flex: 1;
+    flex: 1;
+    max-width: 100%;
+    margin-left: 10rem;
+    padding-left: .4rem;
+    padding-right: .4rem;
 }
+#name{
+    
+    margin-left: .4rem;
+    padding-top: 1rem;
+}   
+#para{
+    margin-left: 3.5rem;
+}
+
+
+.container{
+    margin-left: 20%;
+}
+
 #h6{
     text-align: center;
     padding: 2rem;
@@ -176,8 +199,9 @@ margin-left: 3rem;
 }
 .btn3{
     margin: 3rem 41rem 2rem;
+    
     padding: 1rem 1.2rem;
-    text-emphasis-color: black;
+    text-emphasis-color: black; 
 }
 .footer {
     background: #0a007e;
@@ -189,7 +213,7 @@ margin-left: 3rem;
     font-size: 1rem;
     color: #fff;
     padding-left: 3rem;
-}
+} 
 
 .ni {
     margin-left: 3rem;
@@ -197,5 +221,5 @@ margin-left: 3rem;
     color: #fff;
     opacity: 0.8;
     font-weight: 200;
-    cursor: none;
+    cursor: pointer;
 }
