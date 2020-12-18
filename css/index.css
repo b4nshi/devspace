@@ -113,10 +113,10 @@ margin-left: 3rem;
 }
 
 
-#wwd{
-    margin-right: 1rem;
-}
 
+.container{
+    margin-left: 23%;
+}
 .interface{
     
     margin-bottom: 1rem;
@@ -183,9 +183,6 @@ margin-left: 3rem;
 }
 
 
-.container{
-    margin-left: 20%;
-}
 
 #h6{
     text-align: center;
